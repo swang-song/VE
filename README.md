@@ -35,7 +35,7 @@ pip install -r requirements.txt
 For a detailed environment setup used in our experiments, please refer to [EnvironmentSetup.md](EnvironmentSetup.md)
 
 ### 2. Data Preparation
-All four datasets can be obtained from [Google Drive]((https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy)) provided by Autoformer.
+All four datasets can be obtained from [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided by Autoformer.
 Below is the tree structure of the dataset files:
 ```
 VE Pipeline\dataset
