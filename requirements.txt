@@ -1,0 +1,6 @@
+pandas==1.5.3
+scikit-learn==1.2.2
+patool==1.12
+sktime==0.16.1
+matplotlib==3.7.0
+ptflops==0.7.3

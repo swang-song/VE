@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+/checkpoints/
+/dataset/
+/records/
+/results/
+/test_results/
+/zzz/
+
+
+dataRead.py
+dataRead_VE.py
+dataRead_VE_mdl.py
+result_long_term_forecast.txt
